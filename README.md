@@ -49,3 +49,9 @@ To run the notebook, ensure you have Python 3.x installed along with the require
 3. Open a terminal or command prompt in the folder directory and run:
    ```bash
    jupyter notebook ECE2112_PA3.ipynb
+   
+
+# Author
+- Jerome Oldan
+- 2ECE-D
+- Electronics Engineering Department
